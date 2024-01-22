@@ -2,8 +2,6 @@
 # Display name
 title: Tejini Padalkar
 
-# Name pronunciation (optional)
-name_pronunciation: Teh-jin-ee
 
 # Full name (for SEO)
 first_name: Tejini
